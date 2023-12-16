@@ -1,4 +1,6 @@
 
+![Black Minimal Business Personal Profile Linkedin Banner](https://github.com/PrajwalNikam25/PrajwalNikam25/assets/135547469/51381ce3-94a6-495f-85a8-daa52b246571)
+
 <h1 align="center">Hi 👋, I'm Prajwal Nikam</h1>
 <h3 align="center">A Java developer from India</h3>
 
